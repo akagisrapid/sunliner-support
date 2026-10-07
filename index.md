@@ -1,8 +1,8 @@
-# SunPosWeather サポート / Support
+# Sunliner サポート / Support
 
 ## 日本語
 
-SunPosWeather は、撮影地点と日時から太陽の位置（方位角・仰角）と天気（雲量・降水確率）を確かめる撮影支援アプリです。
+Sunliner は、撮影地点と日時から太陽の位置（方位角・仰角）と天気（雲量・降水確率）を確かめる撮影支援アプリです。
 
 ### お問い合わせ
 
@@ -26,7 +26,7 @@ akagisrapid@gmail.com
 
 ## English
 
-SunPosWeather helps you plan shoots by showing the sun's position (azimuth and elevation) and the weather (cloud cover and chance of precipitation) for a spot and time.
+Sunliner helps you plan shoots by showing the sun's position (azimuth and elevation) and the weather (cloud cover and chance of precipitation) for a spot and time.
 
 ### Contact
 

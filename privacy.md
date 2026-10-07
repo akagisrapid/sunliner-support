@@ -1,6 +1,6 @@
 # プライバシーポリシー / Privacy Policy
 
-**SunPosWeather**
+**Sunliner**
 最終更新日 / Last updated: 2026-10-07
 
 ---
@@ -9,7 +9,7 @@
 
 ### 収集しない情報
 
-SunPosWeather はアカウント登録を必要とせず、利用者を識別する情報（氏名・メールアドレス・
+Sunliner はアカウント登録を必要とせず、利用者を識別する情報（氏名・メールアドレス・
 端末 ID・広告 ID）を一切収集しません。解析ツールや広告 SDK は組み込んでいません。
 利用者の行動を追跡することはなく、他社と共有するデータもありません。
 
@@ -64,7 +64,7 @@ Apple が受け取った情報の扱いは Apple のプライバシーポリシ�
 
 ### Information we do not collect
 
-SunPosWeather requires no account and collects no information that identifies you (name,
+Sunliner requires no account and collects no information that identifies you (name,
 email address, device identifier, or advertising identifier). It contains no analytics or
 advertising SDKs. It does not track you, and no data is shared with third parties for
 their own purposes.
